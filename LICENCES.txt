@@ -1,0 +1,44 @@
+Images in this repository are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+Credits to the originals:
+
+env_room (traced)
+https://www.ihacom.ca/apartment-flat-for-rent-willemstad_59799
+(c) IHA Holidays Ads
+Licensed under CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+
+
+env_city (traced)
+https://en.wikipedia.org/wiki/Eastwood_City#/media/File:Eastwood_Libis_-_view_from_SMDC_Blue_(Quezon_City)(2017-09-06).jpg
+(c) Patrick Roque
+Licensed under CC BY SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+
+env_urbansprawl2 (with filter)
+https://en.wikipedia.org/wiki/Waterloo,_Ontario#/media/File:Downtown_Waterloo.png
+(c) ʄɭoʏɗiaɲτ¢
+Licensed under CC BY SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+
+env_mountainrange (traced)
+https://en.wikipedia.org/wiki/Desert_Magazine#/media/File:Joshua_tree_keys_view_pano_more_vertical.jpg
+(c) Matthew Field
+Licensed under CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+
+env_barninside (with filter)
+http://www.geograph.org.uk/photo/2784565
+(c) Vieve Forward
+Licensed under CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0/
+
+env_castle (with filter)
+https://commons.wikimedia.org/wiki/File:Burg_Hohenzollern_ak.jpg
+(c) A. Kniesel 
+Licensed under CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+
+
+As a complimentary notice, other images used in the game include:
+https://pxhere.com/en/photo/1511 (CC0)
+https://pxhere.com/en/photo/564502 (CC0)
+https://pxhere.com/en/photo/536033 (CC0)
+https://pixabay.com/en/house-family-architecture-suburb-3084040/ (CC0)
+https://commons.wikimedia.org/wiki/File:C_2017_K2_(PANSTARRS)_Orbit_Illustration.png#/media/File:C_2017_K2_(PANSTARRS)_Orbit_Illustration.png (public domain)
+https://en.wikipedia.org/wiki/Galaxy#/media/File:NGC_4414_(NASA-med).jpg (public domain)
+https://solarsystem.nasa.gov/resources/476/2012-venus-transit/ (public domain)
